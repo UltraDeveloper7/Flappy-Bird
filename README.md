@@ -8,7 +8,6 @@ Welcome to the Flappy Bird game! This classic and addictive game is implemented 
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
-- [Controls](#controls)
 - [License](#license)
 
 ## Description
@@ -45,4 +44,12 @@ pip install pygame
    ```
    
 ## How to Play
+Embark on your Flappy Bird adventure with personalized flair! 🐦✨
+1. In order to play, indulge in a delightful selection process. Choose from one of the three charming birds, tailor your pipe experience by deciding between classic or modern pipes, and set the mood with a sunlit day mode for a serene atmosphere. The game kicks off immediately after your selections, promising a uniquely tailored gaming experience.
+2. Navigate the skies with grace by pressing the spacebar to control your bird's altitude. Watch out for those pesky pipes, though! Skillfully maneuver through the openings and avoid collisions to keep the journey alive.
+3. Should you need to gracefully exit the aviary adventure, simply press `Q`.
+Challenge yourself to soar to new heights, beat your high score, and savor the fully customizable experience of Flappy Bird! May your flights be smooth and your scores be legendary! 🚀🌈
 
+
+## License
+This project is licensed under the [MIT License](LICENSE). You can find the full text of the license [here](https://opensource.org/licenses/MIT).

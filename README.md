@@ -27,10 +27,24 @@ pip install pygame
 
 ## Installation
 ## Download through Git:
-1. Clone the repository to your local machine.
+1. **Open a Terminal or Command Prompt:**
+   - On Windows, you can use the Command Prompt or PowerShell.
+   - On macOS or Linux, use the Terminal.
+
+2. **Navigate to the Directory Where You Want to Clone the Repository:**
+   ```bash
+   cd path/to/your/directory
+   ```
+3. **Clone the Repository:**
    ```bash
    git clone https://github.com/UltraDeveloper7/Flappy-Bird.git
    ```
+4. **Navigate into the Cloned Directory:**
+   ```bash
+   cd Flappy-Bird
+   ```
+Now, you have successfully cloned the repository to your local machine. You can proceed with the next steps, such as installing dependencies and running the application.
+
 ## Download through ZIP file:
 1. Download the project as a zip file. You can do this by clicking on the "Code" button on the [GitHub repository page](https://github.com/UltraDeveloper7/Flappy-Bird) and selecting "Download ZIP."
 2. Extract the downloaded zip file to a location of your choice.

@@ -6,7 +6,7 @@ pygame.init()
 
 # Set window dimensions and constants
 WIDTH = 576
-HEIGHT = 1024
+HEIGHT = 980
 floor_x_pos = 0
 clouds_x_pos = 0
 
